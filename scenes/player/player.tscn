@@ -8,7 +8,7 @@
 radius = 5.0
 
 [node name="Player" type="CharacterBody2D" groups=["player"]]
-collision_layer = 0
+collision_layer = 2
 script = ExtResource("1_asgwo")
 
 [node name="AbilityManager" type="Node" parent="."]
