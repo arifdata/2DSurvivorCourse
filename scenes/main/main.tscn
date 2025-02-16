@@ -24,3 +24,6 @@ z_index = 1
 position = Vector2(61, 43)
 
 [node name="BasicEnemy" parent="." instance=ExtResource("4_4hgim")]
+
+[node name="BasicEnemy2" parent="." instance=ExtResource("4_4hgim")]
+position = Vector2(863, 389)
